@@ -1,4 +1,3 @@
-package begginer;
 import java.util.*;
 public class Arraymax {
 	public static void main(String []args) {
